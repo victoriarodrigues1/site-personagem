@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+p {
+  background-color: rgb(243, 243, 238);
+  color: rgb(0, 0, 4);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif }
+
+h1{
+  background-color: #03170b;
+  color: rgb(242, 242, 245);
+  font-family:cursive }
+
+h2{
+  background-color: #0b552a;
+  color: rgb(2, 2, 10);
+  font-family:cursive }
